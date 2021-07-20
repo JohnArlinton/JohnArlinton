@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi is John Arlinton here..! 👋
+
+I'm a freelancer and passionate for knowledge, learning new stuff; I like painting and drawing in my free time. I consider myself a person with good energy vibe, attitude and commitment. I work out every day, also trying to live my life with passion, every minute count.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnarlinton)](https://github.com/anuraghazra/github-readme-stats)
 
 
-**JohnArlinton/JohnArlinton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--
 Here are some ideas to get you started:
 
