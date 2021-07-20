@@ -7,8 +7,8 @@ I'm a passionate person for knowledge and learning new stuff; I like painting an
 ## Skills
 * 🖥 HTML / CSS / JS  
 * 💻 VUE JS/ ANGULAR 
-* ⚛️REACT 
-* 🗃NODE  
+* ⚛️ REACT 
+* 🗃 NODE  
 * 📱 FLUTTER
 
 ## Find me 
