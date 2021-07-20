@@ -1,19 +1,14 @@
-### Hi is John Arlinton here..! 👋
+# Hi there 👋, is John Arlinton here..!
+#### I'm a freelancer developer
+I'm a passionate person for knowledge and learning new stuff; I like painting and drawing in my free time. I consider myself a person with good energy vibe, attitude and commitment. I work out every day, also trying to live my life with passion, every minute count.
 
-I'm a freelancer and passionate for knowledge, learning new stuff; I like painting and drawing in my free time. I consider myself a person with good energy vibe, attitude and commitment. I work out every day, also trying to live my life with passion, every minute count.
+- 🔭 I’m currently working on Finish my incubator project for plants. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnarlinton)](https://github.com/anuraghazra/github-readme-stats)
+## Skills
+VUE JS / REACT / JS / HTML / CSS / ANGULAR / NODE / 
+* FLUTTER
+
+## Find me 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/johnarlinton)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/johnarlinton/)  
 
 
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
