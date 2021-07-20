@@ -1,5 +1,5 @@
 # Hi there 👋, is John Arlinton here..!
-#### I'm a freelancer developer
+### I'm a freelancer developer
 I'm a passionate person for knowledge and learning new stuff; I like painting and drawing in my free time. I consider myself a person with good energy vibe, attitude and commitment. I work out every day, also trying to live my life with passion, every minute count.
 
 - 🔭 I’m currently working on Finish my incubator project for plants. 
